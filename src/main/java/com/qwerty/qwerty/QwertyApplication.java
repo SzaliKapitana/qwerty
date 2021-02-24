@@ -1,13 +1,13 @@
-package com.zxc.zxc;
+package com.qwerty.qwerty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ZxcApplication {
+public class QwertyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZxcApplication.class, args);
+		SpringApplication.run(QwertyApplication.class, args);
 	}
 
 }
